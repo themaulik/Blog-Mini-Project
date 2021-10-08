@@ -33,3 +33,14 @@ This for college student to present  in lab/practical
     - password (varchar - 50)
     - number (bigint - 10)
 
+# 2st DataBase:
+=> This Database is for Contact-Page:
+- Database-Name: mydb (You can change the name and if you changing the name also change in "process.php")
+- Table-Name: userinfo
+    - id (Auto increment, Primery Key)
+    - name (varchar - 50)
+    - surname (varchar - 50)
+    - email (varchar - 20)
+    - phone (bigint - 10)
+    - message (varchar - 500)
+
